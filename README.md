@@ -1,7 +1,38 @@
-## Olá, aqui compartilho alguns dos meus aprendizados em programação
-<div style="display: inline_block"><br>
-  <img align="center" alt="Willy-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Willy-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Willy-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="right" alt="Baby-Yoda" height="150" style="border-radius:50px;" src="http://www.rw-designer.com/icon-image/18638-256x256x32.png">
-</div>
+Olá 👋 Meu nome é Willy
+==========================
+
+Sou um desenvolvedor entusiasmado por Java e aplicações Web. Para mim, programar é uma atividade fascinante e divertida. Por isso, regularmente exploro novas experiências e conhecimentos no ramo de tecnologia.
+
+<br>
+
+* 🎈  Tenho 19 anos
+* 📖  Curso o 3º período de Ciências da Computação - Universidade Federal de São Paulo - [UNIFESP](https://www.unifesp.br/campus/sjc/)
+* 🌍  Resido em São José dos Campos, SP
+* 💪  Curto me exercitar e praticar esportes
+* ⚡  Sou um grande fã de Fórmula 1 e automobilismo
+* 🚀  Sempre estou disposto a agregar valor aos meus amigos e companheiros
+
+<br>
+
+# Minhas tecnologias e ferramentas:
+
+<br>
+
+# 🗄️ Back-End
+<img src="./assets/java.svg" width=56 heigth=56>
+<img src="./assets/spring.svg" width=56 heigth=56>
+<img src="./assets/postgresql.svg" width=56 heigth=56>
+<img src="./assets/c.svg" width=56 heigth=56>
+
+<br>
+
+# 📟 Front-End
+<img src="./assets/javascript.svg" width=56 heigth=56>
+<img src="./assets/react.svg" width=56 heigth=56>
+<img src="./assets/html.svg" width=56 heigth=56>
+<img src="./assets/css.svg" width=56 heigth=56>
+
+<br>
+<br>
+
+<p>“Qualquer um pode escrever um código que o computador entenda. Bons programadores escrevem códigos que os humanos entendam.” – Martin Fowler<p>
