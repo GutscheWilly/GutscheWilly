@@ -19,20 +19,26 @@ Sou um desenvolvedor entusiasmado por Java e aplicações Web. Para mim, program
 <br>
 
 # 🗄️ Back-End
-<img src="./assets/java.svg" width=56 heigth=56>
-<img src="./assets/spring.svg" width=56 heigth=56>
-<img src="./assets/postgresql.svg" width=56 heigth=56>
-<img src="./assets/c.svg" width=56 heigth=56>
+<p>
+    <img src="./assets/java.svg" width=56 heigth=56>
+    <img src="./assets/spring.svg" width=56 heigth=56>
+    <img src="./assets/postgresql.svg" width=56 heigth=56>
+    <img src="./assets/c.svg" width=56 heigth=56>
+<p>
 
 <br>
 
 # 📟 Front-End
-<img src="./assets/javascript.svg" width=56 heigth=56>
-<img src="./assets/react.svg" width=56 heigth=56>
-<img src="./assets/html.svg" width=56 heigth=56>
-<img src="./assets/css.svg" width=56 heigth=56>
+<p>
+    <img src="./assets/javascript.svg" width=56 heigth=56>
+    <img src="./assets/react.svg" width=56 heigth=56>
+    <img src="./assets/html.svg" width=56 heigth=56>
+    <img src="./assets/css.svg" width=56 heigth=56>
+<p>
 
 <br>
 <br>
 
-<p>“Qualquer um pode escrever um código que o computador entenda. Bons programadores escrevem códigos que os humanos entendam.” – Martin Fowler<p>
+<p aling="rigth">
+“Qualquer um pode escrever um código que o computador entenda. Bons programadores escrevem códigos que os humanos entendam.” – Martin Fowler
+<p>
